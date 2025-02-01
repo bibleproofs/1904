@@ -1,0 +1,2680 @@
+Pascha Computus 25.2.1.a
+file generated: Feb, 01, 2025 7:41 AM
+this file is only for testing purposes. it needs verification and may contain errors
+
+Year 1596; alpha = 0, beta = 0
+Evangelismos : March 25, Thursday
+Paschal Moon : April 5, Holy Monday
+Pascha: April  11
+
+Year 1597; alpha = 1, beta = 1
+Evangelismos : March 25, Holy Friday
+Paschal Moon : March 25, Holy Friday
+Pascha: March  27
+
+Year 1598; alpha = 2, beta = 2
+Evangelismos : March 25, Saturday
+Paschal Moon : April 13, Holy Thursday
+Pascha: April  16
+
+Year 1599; alpha = 3, beta = 3
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 2, Holy Monday
+Pascha: April  8
+
+Year 1600; alpha = 4, beta = 4
+Paschal Moon : March 22, Holy Saturday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1601; alpha = 5, beta = 5
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 10, Holy Friday
+Pascha: April  12
+
+Year 1602; alpha = 6, beta = 6
+Evangelismos : March 25, Thursday
+Paschal Moon : March 30, Holy Tuesday
+Pascha: April  4
+
+Year 1603; alpha = 7, beta = 7
+Evangelismos : March 25, Friday
+Paschal Moon : April 18, Holy Monday
+Pascha: April  24
+
+Year 1604; alpha = 8, beta = 8
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 7, Holy Saturday
+Pascha: April  8
+
+Year 1605; alpha = 9, beta = 9
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 27, Holy Wednesday
+Pascha: March  31
+
+Year 1606; alpha = 10, beta = 10
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 15, Holy Tuesday
+Pascha: April  20
+
+Year 1607; alpha = 11, beta = 11
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 4, Holy Saturday
+Pascha: April  5
+
+Year 1608; alpha = 12, beta = 12
+Paschal Moon : March 24, Holy Thursday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1609; alpha = 13, beta = 13
+Evangelismos : March 25, Saturday
+Paschal Moon : April 12, Holy Wednesday
+Pascha: April  16
+
+Year 1610; alpha = 14, beta = 14
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 1, Palm Sunday
+Pascha: April  8
+
+Year 1611; alpha = 15, beta = 15
+Paschal Moon : March 21, Holy Thursday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1612; alpha = 16, beta = 16
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 9, Holy Thursday
+Pascha: April  12
+
+Year 1613; alpha = 17, beta = 17
+Evangelismos : March 25, Thursday
+Paschal Moon : March 29, Holy Monday
+Pascha: April  4
+
+Year 1614; alpha = 18, beta = 18
+Evangelismos : March 25, Friday
+Paschal Moon : April 17, Palm Sunday
+Pascha: April  24
+
+Year 1615; alpha = 19, beta = 0
+Evangelismos : March 25, Saturday
+Paschal Moon : April 5, Holy Wednesday
+Pascha: April  9
+
+Year 1616; alpha = 20, beta = 1
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 25, Holy Monday
+Pascha: March  31
+
+Year 1617; alpha = 21, beta = 2
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 13, Palm Sunday
+Pascha: April  20
+
+Year 1618; alpha = 22, beta = 3
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 2, Holy Thursday
+Pascha: April  5
+
+Year 1619; alpha = 23, beta = 4
+Paschal Moon : March 22, Holy Monday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1620; alpha = 24, beta = 5
+Evangelismos : March 25, Saturday
+Paschal Moon : April 10, Holy Monday
+Pascha: April  16
+
+Year 1621; alpha = 25, beta = 6
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 30, Holy Friday
+Pascha: April  1
+
+Year 1622; alpha = 26, beta = 7
+Evangelismos : March 25, Monday
+Paschal Moon : April 18, Holy Thursday
+Pascha: April  21
+
+Year 1623; alpha = 27, beta = 8
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 7, Holy Monday
+Pascha: April  13
+
+Year 1624; alpha = 0, beta = 9
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 27, Holy Saturday
+Pascha: March  28
+
+Year 1625; alpha = 1, beta = 10
+Evangelismos : March 25, Friday
+Paschal Moon : April 15, Holy Friday
+Pascha: April  17
+
+Year 1626; alpha = 2, beta = 11
+Evangelismos : March 25, Saturday
+Paschal Moon : April 4, Holy Tuesday
+Pascha: April  9
+
+Year 1627; alpha = 3, beta = 12
+Paschal Moon : March 24, Holy Saturday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1628; alpha = 4, beta = 13
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 12, Holy Saturday
+Pascha: April  13
+
+Year 1629; alpha = 5, beta = 14
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 1, Holy Wednesday
+Pascha: April  5
+
+Year 1630; alpha = 6, beta = 15
+Paschal Moon : March 21, Palm Sunday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1631; alpha = 7, beta = 16
+Evangelismos : March 25, Friday
+Paschal Moon : April 9, Holy Saturday
+Pascha: April  10
+
+Year 1632; alpha = 8, beta = 17
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 29, Holy Thursday
+Pascha: April  1
+
+Year 1633; alpha = 9, beta = 18
+Evangelismos : March 25, Monday
+Paschal Moon : April 17, Holy Wednesday
+Pascha: April  21
+
+Year 1634; alpha = 10, beta = 0
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 5, Holy Saturday
+Pascha: April  6
+
+Year 1635; alpha = 11, beta = 1
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1636; alpha = 12, beta = 2
+Evangelismos : March 25, Friday
+Paschal Moon : April 13, Holy Wednesday
+Pascha: April  17
+
+Year 1637; alpha = 13, beta = 3
+Evangelismos : March 25, Saturday
+Paschal Moon : April 2, Palm Sunday
+Pascha: April  9
+
+Year 1638; alpha = 14, beta = 4
+Paschal Moon : March 22, Holy Thursday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1639; alpha = 15, beta = 5
+Evangelismos : March 25, Monday
+Paschal Moon : April 10, Holy Wednesday
+Pascha: April  14
+
+Year 1640; alpha = 16, beta = 6
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 30, Holy Monday
+Pascha: April  5
+
+Year 1641; alpha = 17, beta = 7
+Evangelismos : March 25, Thursday
+Paschal Moon : April 18, Palm Sunday
+Pascha: April  25
+
+Year 1642; alpha = 18, beta = 8
+Evangelismos : March 25, Friday
+Paschal Moon : April 7, Holy Thursday
+Pascha: April  10
+
+Year 1643; alpha = 19, beta = 9
+Evangelismos : March 25, Saturday
+Paschal Moon : March 27, Holy Monday
+Pascha: April  2
+
+Year 1644; alpha = 20, beta = 10
+Evangelismos : March 25, Monday
+Paschal Moon : April 15, Holy Monday
+Pascha: April  21
+
+Year 1645; alpha = 21, beta = 11
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 4, Holy Friday
+Pascha: April  6
+
+Year 1646; alpha = 22, beta = 12
+Paschal Moon : March 24, Holy Tuesday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1647; alpha = 23, beta = 13
+Evangelismos : March 25, Thursday
+Paschal Moon : April 12, Holy Monday
+Pascha: April  18
+
+Year 1648; alpha = 24, beta = 14
+Evangelismos : March 25, Saturday
+Paschal Moon : April 1, Holy Saturday
+Pascha: April  2
+
+Year 1649; alpha = 25, beta = 15
+Paschal Moon : March 21, Holy Wednesday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1650; alpha = 26, beta = 16
+Evangelismos : March 25, Monday
+Paschal Moon : April 9, Holy Tuesday
+Pascha: April  14
+
+Year 1651; alpha = 27, beta = 17
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 29, Holy Saturday
+Pascha: March  30
+
+Year 1652; alpha = 0, beta = 18
+Evangelismos : March 25, Thursday
+Paschal Moon : April 17, Holy Saturday
+Pascha: April  18
+
+Year 1653; alpha = 1, beta = 0
+Evangelismos : March 25, Friday
+Paschal Moon : April 5, Holy Tuesday
+Pascha: April  10
+
+Year 1654; alpha = 2, beta = 1
+Evangelismos : March 25, Holy Saturday
+Paschal Moon : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1655; alpha = 3, beta = 2
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 13, Holy Friday
+Pascha: April  15
+
+Year 1656; alpha = 4, beta = 3
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 2, Holy Wednesday
+Pascha: April  6
+
+Year 1657; alpha = 5, beta = 4
+Paschal Moon : March 22, Palm Sunday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1658; alpha = 6, beta = 5
+Evangelismos : March 25, Thursday
+Paschal Moon : April 10, Holy Saturday
+Pascha: April  11
+
+Year 1659; alpha = 7, beta = 6
+Evangelismos : March 25, Friday
+Paschal Moon : March 30, Holy Wednesday
+Pascha: April  3
+
+Year 1660; alpha = 8, beta = 7
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 18, Holy Wednesday
+Pascha: April  22
+
+Year 1661; alpha = 9, beta = 8
+Evangelismos : March 25, Monday
+Paschal Moon : April 7, Palm Sunday
+Pascha: April  14
+
+Year 1662; alpha = 10, beta = 9
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 27, Holy Thursday
+Pascha: March  30
+
+Year 1663; alpha = 11, beta = 10
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 15, Holy Wednesday
+Pascha: April  19
+
+Year 1664; alpha = 12, beta = 11
+Evangelismos : March 25, Friday
+Paschal Moon : April 4, Holy Monday
+Pascha: April  10
+
+Year 1665; alpha = 13, beta = 12
+Paschal Moon : March 24, Holy Friday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1666; alpha = 14, beta = 13
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 12, Holy Thursday
+Pascha: April  15
+
+Year 1667; alpha = 15, beta = 14
+Evangelismos : March 25, Monday
+Paschal Moon : April 1, Holy Monday
+Pascha: April  7
+
+Year 1668; alpha = 16, beta = 15
+Paschal Moon : March 21, Holy Saturday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  22
+
+Year 1669; alpha = 17, beta = 16
+Evangelismos : March 25, Thursday
+Paschal Moon : April 9, Holy Friday
+Pascha: April  11
+
+Year 1670; alpha = 18, beta = 17
+Evangelismos : March 25, Friday
+Paschal Moon : March 29, Holy Tuesday
+Pascha: April  3
+
+Year 1671; alpha = 19, beta = 18
+Evangelismos : March 25, Saturday
+Paschal Moon : April 17, Holy Monday
+Pascha: April  23
+
+Year 1672; alpha = 20, beta = 0
+Evangelismos : March 25, Monday
+Paschal Moon : April 5, Holy Friday
+Pascha: April  7
+
+Year 1673; alpha = 21, beta = 1
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 1674; alpha = 22, beta = 2
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 13, Holy Monday
+Pascha: April  19
+
+Year 1675; alpha = 23, beta = 3
+Evangelismos : March 25, Thursday
+Paschal Moon : April 2, Holy Friday
+Pascha: April  4
+
+Year 1676; alpha = 24, beta = 4
+Paschal Moon : March 22, Holy Wednesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1677; alpha = 25, beta = 5
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 10, Holy Tuesday
+Pascha: April  15
+
+Year 1678; alpha = 26, beta = 6
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 30, Holy Saturday
+Pascha: March  31
+
+Year 1679; alpha = 27, beta = 7
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 18, Holy Friday
+Pascha: April  20
+
+Year 1680; alpha = 0, beta = 8
+Evangelismos : March 25, Thursday
+Paschal Moon : April 7, Holy Wednesday
+Pascha: April  11
+
+Year 1681; alpha = 1, beta = 9
+Evangelismos : March 25, Friday
+Paschal Moon : March 27, Palm Sunday
+Pascha: April  3
+
+Year 1682; alpha = 2, beta = 10
+Evangelismos : March 25, Saturday
+Paschal Moon : April 15, Holy Saturday
+Pascha: April  16
+
+Year 1683; alpha = 3, beta = 11
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 4, Holy Wednesday
+Pascha: April  8
+
+Year 1684; alpha = 4, beta = 12
+Paschal Moon : March 24, Holy Monday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 1685; alpha = 5, beta = 13
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 12, Palm Sunday
+Pascha: April  19
+
+Year 1686; alpha = 6, beta = 14
+Evangelismos : March 25, Thursday
+Paschal Moon : April 1, Holy Thursday
+Pascha: April  4
+
+Year 1687; alpha = 7, beta = 15
+Paschal Moon : March 21, Holy Monday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1688; alpha = 8, beta = 16
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 9, Holy Monday
+Pascha: April  15
+
+Year 1689; alpha = 9, beta = 17
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 29, Holy Friday
+Pascha: March  31
+
+Year 1690; alpha = 10, beta = 18
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 17, Holy Thursday
+Pascha: April  20
+
+Year 1691; alpha = 11, beta = 0
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 5, Palm Sunday
+Pascha: April  12
+
+Year 1692; alpha = 12, beta = 1
+Evangelismos : March 25, Holy Friday
+Paschal Moon : March 25, Holy Friday
+Pascha: March  27
+
+Year 1693; alpha = 13, beta = 2
+Evangelismos : March 25, Saturday
+Paschal Moon : April 13, Holy Thursday
+Pascha: April  16
+
+Year 1694; alpha = 14, beta = 3
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 2, Holy Monday
+Pascha: April  8
+
+Year 1695; alpha = 15, beta = 4
+Paschal Moon : March 22, Holy Friday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1696; alpha = 16, beta = 5
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 10, Holy Friday
+Pascha: April  12
+
+Year 1697; alpha = 17, beta = 6
+Evangelismos : March 25, Thursday
+Paschal Moon : March 30, Holy Tuesday
+Pascha: April  4
+
+Year 1698; alpha = 18, beta = 7
+Evangelismos : March 25, Friday
+Paschal Moon : April 18, Holy Monday
+Pascha: April  24
+
+Year 1699; alpha = 19, beta = 8
+Evangelismos : March 25, Saturday
+Paschal Moon : April 7, Holy Friday
+Pascha: April  9
+
+Year 1700; alpha = 20, beta = 9
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 27, Holy Wednesday
+Pascha: March  31
+
+Year 1701; alpha = 21, beta = 10
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 15, Holy Tuesday
+Pascha: April  20
+
+Year 1702; alpha = 22, beta = 11
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 4, Holy Saturday
+Pascha: April  5
+
+Year 1703; alpha = 23, beta = 12
+Paschal Moon : March 24, Holy Wednesday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1704; alpha = 24, beta = 13
+Evangelismos : March 25, Saturday
+Paschal Moon : April 12, Holy Wednesday
+Pascha: April  16
+
+Year 1705; alpha = 25, beta = 14
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 1, Palm Sunday
+Pascha: April  8
+
+Year 1706; alpha = 26, beta = 15
+Paschal Moon : March 21, Holy Thursday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1707; alpha = 27, beta = 16
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 9, Holy Wednesday
+Pascha: April  13
+
+Year 1708; alpha = 0, beta = 17
+Evangelismos : March 25, Thursday
+Paschal Moon : March 29, Holy Monday
+Pascha: April  4
+
+Year 1709; alpha = 1, beta = 18
+Evangelismos : March 25, Friday
+Paschal Moon : April 17, Palm Sunday
+Pascha: April  24
+
+Year 1710; alpha = 2, beta = 0
+Evangelismos : March 25, Saturday
+Paschal Moon : April 5, Holy Wednesday
+Pascha: April  9
+
+Year 1711; alpha = 3, beta = 1
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 25, Palm Sunday
+Pascha: April  1
+
+Year 1712; alpha = 4, beta = 2
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 13, Palm Sunday
+Pascha: April  20
+
+Year 1713; alpha = 5, beta = 3
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 2, Holy Thursday
+Pascha: April  5
+
+Year 1714; alpha = 6, beta = 4
+Paschal Moon : March 22, Holy Monday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1715; alpha = 7, beta = 5
+Evangelismos : March 25, Friday
+Paschal Moon : April 10, Palm Sunday
+Pascha: April  17
+
+Year 1716; alpha = 8, beta = 6
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 30, Holy Friday
+Pascha: April  1
+
+Year 1717; alpha = 9, beta = 7
+Evangelismos : March 25, Monday
+Paschal Moon : April 18, Holy Thursday
+Pascha: April  21
+
+Year 1718; alpha = 10, beta = 8
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 7, Holy Monday
+Pascha: April  13
+
+Year 1719; alpha = 11, beta = 9
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 27, Holy Friday
+Pascha: March  29
+
+Year 1720; alpha = 12, beta = 10
+Evangelismos : March 25, Friday
+Paschal Moon : April 15, Holy Friday
+Pascha: April  17
+
+Year 1721; alpha = 13, beta = 11
+Evangelismos : March 25, Saturday
+Paschal Moon : April 4, Holy Tuesday
+Pascha: April  9
+
+Year 1722; alpha = 14, beta = 12
+Paschal Moon : March 24, Holy Saturday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1723; alpha = 15, beta = 13
+Evangelismos : March 25, Monday
+Paschal Moon : April 12, Holy Friday
+Pascha: April  14
+
+Year 1724; alpha = 16, beta = 14
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 1, Holy Wednesday
+Pascha: April  5
+
+Year 1725; alpha = 17, beta = 15
+Paschal Moon : March 21, Palm Sunday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1726; alpha = 18, beta = 16
+Evangelismos : March 25, Friday
+Paschal Moon : April 9, Holy Saturday
+Pascha: April  10
+
+Year 1727; alpha = 19, beta = 17
+Evangelismos : March 25, Saturday
+Paschal Moon : March 29, Holy Wednesday
+Pascha: April  2
+
+Year 1728; alpha = 20, beta = 18
+Evangelismos : March 25, Monday
+Paschal Moon : April 17, Holy Wednesday
+Pascha: April  21
+
+Year 1729; alpha = 21, beta = 0
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 5, Holy Saturday
+Pascha: April  6
+
+Year 1730; alpha = 22, beta = 1
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1731; alpha = 23, beta = 2
+Evangelismos : March 25, Thursday
+Paschal Moon : April 13, Holy Tuesday
+Pascha: April  18
+
+Year 1732; alpha = 24, beta = 3
+Evangelismos : March 25, Saturday
+Paschal Moon : April 2, Palm Sunday
+Pascha: April  9
+
+Year 1733; alpha = 25, beta = 4
+Paschal Moon : March 22, Holy Thursday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1734; alpha = 26, beta = 5
+Evangelismos : March 25, Monday
+Paschal Moon : April 10, Holy Wednesday
+Pascha: April  14
+
+Year 1735; alpha = 27, beta = 6
+Evangelismos : March 25, Tuesday
+Paschal Moon : March 30, Palm Sunday
+Pascha: April  6
+
+Year 1736; alpha = 0, beta = 7
+Evangelismos : March 25, Thursday
+Paschal Moon : April 18, Palm Sunday
+Pascha: April  25
+
+Year 1737; alpha = 1, beta = 8
+Evangelismos : March 25, Friday
+Paschal Moon : April 7, Holy Thursday
+Pascha: April  10
+
+Year 1738; alpha = 2, beta = 9
+Evangelismos : March 25, Saturday
+Paschal Moon : March 27, Holy Monday
+Pascha: April  2
+
+Year 1739; alpha = 3, beta = 10
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 15, Palm Sunday
+Pascha: April  22
+
+Year 1740; alpha = 4, beta = 11
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 4, Holy Friday
+Pascha: April  6
+
+Year 1741; alpha = 5, beta = 12
+Paschal Moon : March 24, Holy Tuesday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1742; alpha = 6, beta = 13
+Evangelismos : March 25, Thursday
+Paschal Moon : April 12, Holy Monday
+Pascha: April  18
+
+Year 1743; alpha = 7, beta = 14
+Evangelismos : March 25, Friday
+Paschal Moon : April 1, Holy Friday
+Pascha: April  3
+
+Year 1744; alpha = 8, beta = 15
+Paschal Moon : March 21, Holy Wednesday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1745; alpha = 9, beta = 16
+Evangelismos : March 25, Monday
+Paschal Moon : April 9, Holy Tuesday
+Pascha: April  14
+
+Year 1746; alpha = 10, beta = 17
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 29, Holy Saturday
+Pascha: March  30
+
+Year 1747; alpha = 11, beta = 18
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 17, Holy Friday
+Pascha: April  19
+
+Year 1748; alpha = 12, beta = 0
+Evangelismos : March 25, Friday
+Paschal Moon : April 5, Holy Tuesday
+Pascha: April  10
+
+Year 1749; alpha = 13, beta = 1
+Evangelismos : March 25, Holy Saturday
+Paschal Moon : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1750; alpha = 14, beta = 2
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 13, Holy Friday
+Pascha: April  15
+
+Year 1751; alpha = 15, beta = 3
+Evangelismos : March 25, Monday
+Paschal Moon : April 2, Holy Tuesday
+Pascha: April  7
+
+Year 1752; alpha = 16, beta = 4
+Paschal Moon : March 22, Palm Sunday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1753; alpha = 17, beta = 5
+Evangelismos : March 25, Thursday
+Paschal Moon : April 10, Holy Saturday
+Pascha: April  11
+
+Year 1754; alpha = 18, beta = 6
+Evangelismos : March 25, Friday
+Paschal Moon : March 30, Holy Wednesday
+Pascha: April  3
+
+Year 1755; alpha = 19, beta = 7
+Evangelismos : March 25, Saturday
+Paschal Moon : April 18, Holy Tuesday
+Pascha: April  23
+
+Year 1756; alpha = 20, beta = 8
+Evangelismos : March 25, Monday
+Paschal Moon : April 7, Palm Sunday
+Pascha: April  14
+
+Year 1757; alpha = 21, beta = 9
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 27, Holy Thursday
+Pascha: March  30
+
+Year 1758; alpha = 22, beta = 10
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 15, Holy Wednesday
+Pascha: April  19
+
+Year 1759; alpha = 23, beta = 11
+Evangelismos : March 25, Thursday
+Paschal Moon : April 4, Palm Sunday
+Pascha: April  11
+
+Year 1760; alpha = 24, beta = 12
+Paschal Moon : March 24, Holy Friday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1761; alpha = 25, beta = 13
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 12, Holy Thursday
+Pascha: April  15
+
+Year 1762; alpha = 26, beta = 14
+Evangelismos : March 25, Monday
+Paschal Moon : April 1, Holy Monday
+Pascha: April  7
+
+Year 1763; alpha = 27, beta = 15
+Paschal Moon : March 21, Holy Friday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1764; alpha = 0, beta = 16
+Evangelismos : March 25, Thursday
+Paschal Moon : April 9, Holy Friday
+Pascha: April  11
+
+Year 1765; alpha = 1, beta = 17
+Evangelismos : March 25, Friday
+Paschal Moon : March 29, Holy Tuesday
+Pascha: April  3
+
+Year 1766; alpha = 2, beta = 18
+Evangelismos : March 25, Saturday
+Paschal Moon : April 17, Holy Monday
+Pascha: April  23
+
+Year 1767; alpha = 3, beta = 0
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 5, Holy Thursday
+Pascha: April  8
+
+Year 1768; alpha = 4, beta = 1
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 1769; alpha = 5, beta = 2
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 13, Holy Monday
+Pascha: April  19
+
+Year 1770; alpha = 6, beta = 3
+Evangelismos : March 25, Thursday
+Paschal Moon : April 2, Holy Friday
+Pascha: April  4
+
+Year 1771; alpha = 7, beta = 4
+Paschal Moon : March 22, Holy Tuesday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1772; alpha = 8, beta = 5
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 10, Holy Tuesday
+Pascha: April  15
+
+Year 1773; alpha = 9, beta = 6
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 30, Holy Saturday
+Pascha: March  31
+
+Year 1774; alpha = 10, beta = 7
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 18, Holy Friday
+Pascha: April  20
+
+Year 1775; alpha = 11, beta = 8
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 7, Holy Tuesday
+Pascha: April  12
+
+Year 1776; alpha = 12, beta = 9
+Evangelismos : March 25, Friday
+Paschal Moon : March 27, Palm Sunday
+Pascha: April  3
+
+Year 1777; alpha = 13, beta = 10
+Evangelismos : March 25, Saturday
+Paschal Moon : April 15, Holy Saturday
+Pascha: April  16
+
+Year 1778; alpha = 14, beta = 11
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 4, Holy Wednesday
+Pascha: April  8
+
+Year 1779; alpha = 15, beta = 12
+Paschal Moon : March 24, Palm Sunday
+Evangelismos : March 25, Holy Monday
+Pascha: March  31
+
+Year 1780; alpha = 16, beta = 13
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 12, Palm Sunday
+Pascha: April  19
+
+Year 1781; alpha = 17, beta = 14
+Evangelismos : March 25, Thursday
+Paschal Moon : April 1, Holy Thursday
+Pascha: April  4
+
+Year 1782; alpha = 18, beta = 15
+Paschal Moon : March 21, Holy Monday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1783; alpha = 19, beta = 16
+Evangelismos : March 25, Saturday
+Paschal Moon : April 9, Palm Sunday
+Pascha: April  16
+
+Year 1784; alpha = 20, beta = 17
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 29, Holy Friday
+Pascha: March  31
+
+Year 1785; alpha = 21, beta = 18
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 17, Holy Thursday
+Pascha: April  20
+
+Year 1786; alpha = 22, beta = 0
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 5, Palm Sunday
+Pascha: April  12
+
+Year 1787; alpha = 23, beta = 1
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1788; alpha = 24, beta = 2
+Evangelismos : March 25, Saturday
+Paschal Moon : April 13, Holy Thursday
+Pascha: April  16
+
+Year 1789; alpha = 25, beta = 3
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 2, Holy Monday
+Pascha: April  8
+
+Year 1790; alpha = 26, beta = 4
+Paschal Moon : March 22, Holy Friday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1791; alpha = 27, beta = 5
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 10, Holy Thursday
+Pascha: April  13
+
+Year 1792; alpha = 0, beta = 6
+Evangelismos : March 25, Thursday
+Paschal Moon : March 30, Holy Tuesday
+Pascha: April  4
+
+Year 1793; alpha = 1, beta = 7
+Evangelismos : March 25, Friday
+Paschal Moon : April 18, Holy Monday
+Pascha: April  24
+
+Year 1794; alpha = 2, beta = 8
+Evangelismos : March 25, Saturday
+Paschal Moon : April 7, Holy Friday
+Pascha: April  9
+
+Year 1795; alpha = 3, beta = 9
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 27, Holy Tuesday
+Pascha: April  1
+
+Year 1796; alpha = 4, beta = 10
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 15, Holy Tuesday
+Pascha: April  20
+
+Year 1797; alpha = 5, beta = 11
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 4, Holy Saturday
+Pascha: April  5
+
+Year 1798; alpha = 6, beta = 12
+Paschal Moon : March 24, Holy Wednesday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1799; alpha = 7, beta = 13
+Evangelismos : March 25, Friday
+Paschal Moon : April 12, Holy Tuesday
+Pascha: April  17
+
+Year 1800; alpha = 8, beta = 14
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 1, Palm Sunday
+Pascha: April  8
+
+Year 1801; alpha = 9, beta = 15
+Paschal Moon : March 21, Holy Thursday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1802; alpha = 10, beta = 16
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 9, Holy Wednesday
+Pascha: April  13
+
+Year 1803; alpha = 11, beta = 17
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 29, Palm Sunday
+Pascha: April  5
+
+Year 1804; alpha = 12, beta = 18
+Evangelismos : March 25, Friday
+Paschal Moon : April 17, Palm Sunday
+Pascha: April  24
+
+Year 1805; alpha = 13, beta = 0
+Evangelismos : March 25, Saturday
+Paschal Moon : April 5, Holy Wednesday
+Pascha: April  9
+
+Year 1806; alpha = 14, beta = 1
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 25, Palm Sunday
+Pascha: April  1
+
+Year 1807; alpha = 15, beta = 2
+Evangelismos : March 25, Monday
+Paschal Moon : April 13, Holy Saturday
+Pascha: April  14
+
+Year 1808; alpha = 16, beta = 3
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 2, Holy Thursday
+Pascha: April  5
+
+Year 1809; alpha = 17, beta = 4
+Paschal Moon : March 22, Holy Monday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1810; alpha = 18, beta = 5
+Evangelismos : March 25, Friday
+Paschal Moon : April 10, Palm Sunday
+Pascha: April  17
+
+Year 1811; alpha = 19, beta = 6
+Evangelismos : March 25, Saturday
+Paschal Moon : March 30, Holy Thursday
+Pascha: April  2
+
+Year 1812; alpha = 20, beta = 7
+Evangelismos : March 25, Monday
+Paschal Moon : April 18, Holy Thursday
+Pascha: April  21
+
+Year 1813; alpha = 21, beta = 8
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 7, Holy Monday
+Pascha: April  13
+
+Year 1814; alpha = 22, beta = 9
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 27, Holy Friday
+Pascha: March  29
+
+Year 1815; alpha = 23, beta = 10
+Evangelismos : March 25, Thursday
+Paschal Moon : April 15, Holy Thursday
+Pascha: April  18
+
+Year 1816; alpha = 24, beta = 11
+Evangelismos : March 25, Saturday
+Paschal Moon : April 4, Holy Tuesday
+Pascha: April  9
+
+Year 1817; alpha = 25, beta = 12
+Paschal Moon : March 24, Holy Saturday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1818; alpha = 26, beta = 13
+Evangelismos : March 25, Monday
+Paschal Moon : April 12, Holy Friday
+Pascha: April  14
+
+Year 1819; alpha = 27, beta = 14
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 1, Holy Tuesday
+Pascha: April  6
+
+Year 1820; alpha = 0, beta = 15
+Paschal Moon : March 21, Palm Sunday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1821; alpha = 1, beta = 16
+Evangelismos : March 25, Friday
+Paschal Moon : April 9, Holy Saturday
+Pascha: April  10
+
+Year 1822; alpha = 2, beta = 17
+Evangelismos : March 25, Saturday
+Paschal Moon : March 29, Holy Wednesday
+Pascha: April  2
+
+Year 1823; alpha = 3, beta = 18
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 17, Holy Tuesday
+Pascha: April  22
+
+Year 1824; alpha = 4, beta = 0
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 5, Holy Saturday
+Pascha: April  6
+
+Year 1825; alpha = 5, beta = 1
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1826; alpha = 6, beta = 2
+Evangelismos : March 25, Thursday
+Paschal Moon : April 13, Holy Tuesday
+Pascha: April  18
+
+Year 1827; alpha = 7, beta = 3
+Evangelismos : March 25, Friday
+Paschal Moon : April 2, Holy Saturday
+Pascha: April  3
+
+Year 1828; alpha = 8, beta = 4
+Paschal Moon : March 22, Holy Thursday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1829; alpha = 9, beta = 5
+Evangelismos : March 25, Monday
+Paschal Moon : April 10, Holy Wednesday
+Pascha: April  14
+
+Year 1830; alpha = 10, beta = 6
+Evangelismos : March 25, Tuesday
+Paschal Moon : March 30, Palm Sunday
+Pascha: April  6
+
+Year 1831; alpha = 11, beta = 7
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 18, Holy Saturday
+Pascha: April  19
+
+Year 1832; alpha = 12, beta = 8
+Evangelismos : March 25, Friday
+Paschal Moon : April 7, Holy Thursday
+Pascha: April  10
+
+Year 1833; alpha = 13, beta = 9
+Evangelismos : March 25, Saturday
+Paschal Moon : March 27, Holy Monday
+Pascha: April  2
+
+Year 1834; alpha = 14, beta = 10
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 15, Palm Sunday
+Pascha: April  22
+
+Year 1835; alpha = 15, beta = 11
+Evangelismos : March 25, Monday
+Paschal Moon : April 4, Holy Thursday
+Pascha: April  7
+
+Year 1836; alpha = 16, beta = 12
+Paschal Moon : March 24, Holy Tuesday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1837; alpha = 17, beta = 13
+Evangelismos : March 25, Thursday
+Paschal Moon : April 12, Holy Monday
+Pascha: April  18
+
+Year 1838; alpha = 18, beta = 14
+Evangelismos : March 25, Friday
+Paschal Moon : April 1, Holy Friday
+Pascha: April  3
+
+Year 1839; alpha = 19, beta = 15
+Paschal Moon : March 21, Holy Tuesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1840; alpha = 20, beta = 16
+Evangelismos : March 25, Monday
+Paschal Moon : April 9, Holy Tuesday
+Pascha: April  14
+
+Year 1841; alpha = 21, beta = 17
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 29, Holy Saturday
+Pascha: March  30
+
+Year 1842; alpha = 22, beta = 18
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 17, Holy Friday
+Pascha: April  19
+
+Year 1843; alpha = 23, beta = 0
+Evangelismos : March 25, Thursday
+Paschal Moon : April 5, Holy Monday
+Pascha: April  11
+
+Year 1844; alpha = 24, beta = 1
+Evangelismos : March 25, Holy Saturday
+Paschal Moon : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1845; alpha = 25, beta = 2
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 13, Holy Friday
+Pascha: April  15
+
+Year 1846; alpha = 26, beta = 3
+Evangelismos : March 25, Monday
+Paschal Moon : April 2, Holy Tuesday
+Pascha: April  7
+
+Year 1847; alpha = 27, beta = 4
+Paschal Moon : March 22, Holy Saturday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1848; alpha = 0, beta = 5
+Evangelismos : March 25, Thursday
+Paschal Moon : April 10, Holy Saturday
+Pascha: April  11
+
+Year 1849; alpha = 1, beta = 6
+Evangelismos : March 25, Friday
+Paschal Moon : March 30, Holy Wednesday
+Pascha: April  3
+
+Year 1850; alpha = 2, beta = 7
+Evangelismos : March 25, Saturday
+Paschal Moon : April 18, Holy Tuesday
+Pascha: April  23
+
+Year 1851; alpha = 3, beta = 8
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 7, Holy Saturday
+Pascha: April  8
+
+Year 1852; alpha = 4, beta = 9
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 27, Holy Thursday
+Pascha: March  30
+
+Year 1853; alpha = 5, beta = 10
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 15, Holy Wednesday
+Pascha: April  19
+
+Year 1854; alpha = 6, beta = 11
+Evangelismos : March 25, Thursday
+Paschal Moon : April 4, Palm Sunday
+Pascha: April  11
+
+Year 1855; alpha = 7, beta = 12
+Paschal Moon : March 24, Holy Thursday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1856; alpha = 8, beta = 13
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 12, Holy Thursday
+Pascha: April  15
+
+Year 1857; alpha = 9, beta = 14
+Evangelismos : March 25, Monday
+Paschal Moon : April 1, Holy Monday
+Pascha: April  7
+
+Year 1858; alpha = 10, beta = 15
+Paschal Moon : March 21, Holy Friday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1859; alpha = 11, beta = 16
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 9, Holy Thursday
+Pascha: April  12
+
+Year 1860; alpha = 12, beta = 17
+Evangelismos : March 25, Friday
+Paschal Moon : March 29, Holy Tuesday
+Pascha: April  3
+
+Year 1861; alpha = 13, beta = 18
+Evangelismos : March 25, Saturday
+Paschal Moon : April 17, Holy Monday
+Pascha: April  23
+
+Year 1862; alpha = 14, beta = 0
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 5, Holy Thursday
+Pascha: April  8
+
+Year 1863; alpha = 15, beta = 1
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 25, Holy Monday
+Pascha: March  31
+
+Year 1864; alpha = 16, beta = 2
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 13, Holy Monday
+Pascha: April  19
+
+Year 1865; alpha = 17, beta = 3
+Evangelismos : March 25, Thursday
+Paschal Moon : April 2, Holy Friday
+Pascha: April  4
+
+Year 1866; alpha = 18, beta = 4
+Paschal Moon : March 22, Holy Tuesday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1867; alpha = 19, beta = 5
+Evangelismos : March 25, Saturday
+Paschal Moon : April 10, Holy Monday
+Pascha: April  16
+
+Year 1868; alpha = 20, beta = 6
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 30, Holy Saturday
+Pascha: March  31
+
+Year 1869; alpha = 21, beta = 7
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 18, Holy Friday
+Pascha: April  20
+
+Year 1870; alpha = 22, beta = 8
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 7, Holy Tuesday
+Pascha: April  12
+
+Year 1871; alpha = 23, beta = 9
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 27, Holy Saturday
+Pascha: March  28
+
+Year 1872; alpha = 24, beta = 10
+Evangelismos : March 25, Saturday
+Paschal Moon : April 15, Holy Saturday
+Pascha: April  16
+
+Year 1873; alpha = 25, beta = 11
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 4, Holy Wednesday
+Pascha: April  8
+
+Year 1874; alpha = 26, beta = 12
+Paschal Moon : March 24, Palm Sunday
+Evangelismos : March 25, Holy Monday
+Pascha: March  31
+
+Year 1875; alpha = 27, beta = 13
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 12, Holy Saturday
+Pascha: April  13
+
+Year 1876; alpha = 0, beta = 14
+Evangelismos : March 25, Thursday
+Paschal Moon : April 1, Holy Thursday
+Pascha: April  4
+
+Year 1877; alpha = 1, beta = 15
+Paschal Moon : March 21, Holy Monday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1878; alpha = 2, beta = 16
+Evangelismos : March 25, Saturday
+Paschal Moon : April 9, Palm Sunday
+Pascha: April  16
+
+Year 1879; alpha = 3, beta = 17
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 29, Holy Thursday
+Pascha: April  1
+
+Year 1880; alpha = 4, beta = 18
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 17, Holy Thursday
+Pascha: April  20
+
+Year 1881; alpha = 5, beta = 0
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 5, Palm Sunday
+Pascha: April  12
+
+Year 1882; alpha = 6, beta = 1
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1883; alpha = 7, beta = 2
+Evangelismos : March 25, Friday
+Paschal Moon : April 13, Holy Wednesday
+Pascha: April  17
+
+Year 1884; alpha = 8, beta = 3
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 2, Holy Monday
+Pascha: April  8
+
+Year 1885; alpha = 9, beta = 4
+Paschal Moon : March 22, Holy Friday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1886; alpha = 10, beta = 5
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 10, Holy Thursday
+Pascha: April  13
+
+Year 1887; alpha = 11, beta = 6
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 30, Holy Monday
+Pascha: April  5
+
+Year 1888; alpha = 12, beta = 7
+Evangelismos : March 25, Friday
+Paschal Moon : April 18, Holy Monday
+Pascha: April  24
+
+Year 1889; alpha = 13, beta = 8
+Evangelismos : March 25, Saturday
+Paschal Moon : April 7, Holy Friday
+Pascha: April  9
+
+Year 1890; alpha = 14, beta = 9
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 27, Holy Tuesday
+Pascha: April  1
+
+Year 1891; alpha = 15, beta = 10
+Evangelismos : March 25, Monday
+Paschal Moon : April 15, Holy Monday
+Pascha: April  21
+
+Year 1892; alpha = 16, beta = 11
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 4, Holy Saturday
+Pascha: April  5
+
+Year 1893; alpha = 17, beta = 12
+Paschal Moon : March 24, Holy Wednesday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1894; alpha = 18, beta = 13
+Evangelismos : March 25, Friday
+Paschal Moon : April 12, Holy Tuesday
+Pascha: April  17
+
+Year 1895; alpha = 19, beta = 14
+Evangelismos : March 25, Saturday
+Paschal Moon : April 1, Holy Saturday
+Pascha: April  2
+
+Year 1896; alpha = 20, beta = 15
+Paschal Moon : March 21, Holy Thursday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1897; alpha = 21, beta = 16
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 9, Holy Wednesday
+Pascha: April  13
+
+Year 1898; alpha = 22, beta = 17
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 29, Palm Sunday
+Pascha: April  5
+
+Year 1899; alpha = 23, beta = 18
+Evangelismos : March 25, Thursday
+Paschal Moon : April 17, Holy Saturday
+Pascha: April  18
+
+Year 1900; alpha = 24, beta = 0
+Evangelismos : March 25, Saturday
+Paschal Moon : April 5, Holy Wednesday
+Pascha: April  9
+
+Year 1901; alpha = 25, beta = 1
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 25, Palm Sunday
+Pascha: April  1
+
+Year 1902; alpha = 26, beta = 2
+Evangelismos : March 25, Monday
+Paschal Moon : April 13, Holy Saturday
+Pascha: April  14
+
+Year 1903; alpha = 27, beta = 3
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 2, Holy Wednesday
+Pascha: April  6
+
+Year 1904; alpha = 0, beta = 4
+Paschal Moon : March 22, Holy Monday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1905; alpha = 1, beta = 5
+Evangelismos : March 25, Friday
+Paschal Moon : April 10, Palm Sunday
+Pascha: April  17
+
+Year 1906; alpha = 2, beta = 6
+Evangelismos : March 25, Saturday
+Paschal Moon : March 30, Holy Thursday
+Pascha: April  2
+
+Year 1907; alpha = 3, beta = 7
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 18, Holy Wednesday
+Pascha: April  22
+
+Year 1908; alpha = 4, beta = 8
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 7, Holy Monday
+Pascha: April  13
+
+Year 1909; alpha = 5, beta = 9
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 27, Holy Friday
+Pascha: March  29
+
+Year 1910; alpha = 6, beta = 10
+Evangelismos : March 25, Thursday
+Paschal Moon : April 15, Holy Thursday
+Pascha: April  18
+
+Year 1911; alpha = 7, beta = 11
+Evangelismos : March 25, Friday
+Paschal Moon : April 4, Holy Monday
+Pascha: April  10
+
+Year 1912; alpha = 8, beta = 12
+Paschal Moon : March 24, Holy Saturday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1913; alpha = 9, beta = 13
+Evangelismos : March 25, Monday
+Paschal Moon : April 12, Holy Friday
+Pascha: April  14
+
+Year 1914; alpha = 10, beta = 14
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 1, Holy Tuesday
+Pascha: April  6
+
+Year 1915; alpha = 11, beta = 15
+Paschal Moon : March 21, Holy Saturday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  22
+
+Year 1916; alpha = 12, beta = 16
+Evangelismos : March 25, Friday
+Paschal Moon : April 9, Holy Saturday
+Pascha: April  10
+
+Year 1917; alpha = 13, beta = 17
+Evangelismos : March 25, Saturday
+Paschal Moon : March 29, Holy Wednesday
+Pascha: April  2
+
+Year 1918; alpha = 14, beta = 18
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 17, Holy Tuesday
+Pascha: April  22
+
+Year 1919; alpha = 15, beta = 0
+Evangelismos : March 25, Monday
+Paschal Moon : April 5, Holy Friday
+Pascha: April  7
+
+Year 1920; alpha = 16, beta = 1
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 1921; alpha = 17, beta = 2
+Evangelismos : March 25, Thursday
+Paschal Moon : April 13, Holy Tuesday
+Pascha: April  18
+
+Year 1922; alpha = 18, beta = 3
+Evangelismos : March 25, Friday
+Paschal Moon : April 2, Holy Saturday
+Pascha: April  3
+
+Year 1923; alpha = 19, beta = 4
+Paschal Moon : March 22, Holy Wednesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1924; alpha = 20, beta = 5
+Evangelismos : March 25, Monday
+Paschal Moon : April 10, Holy Wednesday
+Pascha: April  14
+
+Year 1925; alpha = 21, beta = 6
+Evangelismos : March 25, Tuesday
+Paschal Moon : March 30, Palm Sunday
+Pascha: April  6
+
+Year 1926; alpha = 22, beta = 7
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 18, Holy Saturday
+Pascha: April  19
+
+Year 1927; alpha = 23, beta = 8
+Evangelismos : March 25, Thursday
+Paschal Moon : April 7, Holy Wednesday
+Pascha: April  11
+
+Year 1928; alpha = 24, beta = 9
+Evangelismos : March 25, Saturday
+Paschal Moon : March 27, Holy Monday
+Pascha: April  2
+
+Year 1929; alpha = 25, beta = 10
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 15, Palm Sunday
+Pascha: April  22
+
+Year 1930; alpha = 26, beta = 11
+Evangelismos : March 25, Monday
+Paschal Moon : April 4, Holy Thursday
+Pascha: April  7
+
+Year 1931; alpha = 27, beta = 12
+Paschal Moon : March 24, Holy Monday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 1932; alpha = 0, beta = 13
+Evangelismos : March 25, Thursday
+Paschal Moon : April 12, Holy Monday
+Pascha: April  18
+
+Year 1933; alpha = 1, beta = 14
+Evangelismos : March 25, Friday
+Paschal Moon : April 1, Holy Friday
+Pascha: April  3
+
+Year 1934; alpha = 2, beta = 15
+Paschal Moon : March 21, Holy Tuesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 1935; alpha = 3, beta = 16
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 9, Holy Monday
+Pascha: April  15
+
+Year 1936; alpha = 4, beta = 17
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 29, Holy Saturday
+Pascha: March  30
+
+Year 1937; alpha = 5, beta = 18
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 17, Holy Friday
+Pascha: April  19
+
+Year 1938; alpha = 6, beta = 0
+Evangelismos : March 25, Thursday
+Paschal Moon : April 5, Holy Monday
+Pascha: April  11
+
+Year 1939; alpha = 7, beta = 1
+Evangelismos : March 25, Holy Friday
+Paschal Moon : March 25, Holy Friday
+Pascha: March  27
+
+Year 1940; alpha = 8, beta = 2
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 13, Holy Friday
+Pascha: April  15
+
+Year 1941; alpha = 9, beta = 3
+Evangelismos : March 25, Monday
+Paschal Moon : April 2, Holy Tuesday
+Pascha: April  7
+
+Year 1942; alpha = 10, beta = 4
+Paschal Moon : March 22, Holy Saturday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1943; alpha = 11, beta = 5
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 10, Holy Friday
+Pascha: April  12
+
+Year 1944; alpha = 12, beta = 6
+Evangelismos : March 25, Friday
+Paschal Moon : March 30, Holy Wednesday
+Pascha: April  3
+
+Year 1945; alpha = 13, beta = 7
+Evangelismos : March 25, Saturday
+Paschal Moon : April 18, Holy Tuesday
+Pascha: April  23
+
+Year 1946; alpha = 14, beta = 8
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 7, Holy Saturday
+Pascha: April  8
+
+Year 1947; alpha = 15, beta = 9
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 27, Holy Wednesday
+Pascha: March  31
+
+Year 1948; alpha = 16, beta = 10
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 15, Holy Wednesday
+Pascha: April  19
+
+Year 1949; alpha = 17, beta = 11
+Evangelismos : March 25, Thursday
+Paschal Moon : April 4, Palm Sunday
+Pascha: April  11
+
+Year 1950; alpha = 18, beta = 12
+Paschal Moon : March 24, Holy Thursday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1951; alpha = 19, beta = 13
+Evangelismos : March 25, Saturday
+Paschal Moon : April 12, Holy Wednesday
+Pascha: April  16
+
+Year 1952; alpha = 20, beta = 14
+Evangelismos : March 25, Monday
+Paschal Moon : April 1, Holy Monday
+Pascha: April  7
+
+Year 1953; alpha = 21, beta = 15
+Paschal Moon : March 21, Holy Friday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 1954; alpha = 22, beta = 16
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 9, Holy Thursday
+Pascha: April  12
+
+Year 1955; alpha = 23, beta = 17
+Evangelismos : March 25, Thursday
+Paschal Moon : March 29, Holy Monday
+Pascha: April  4
+
+Year 1956; alpha = 24, beta = 18
+Evangelismos : March 25, Saturday
+Paschal Moon : April 17, Holy Monday
+Pascha: April  23
+
+Year 1957; alpha = 25, beta = 0
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 5, Holy Thursday
+Pascha: April  8
+
+Year 1958; alpha = 26, beta = 1
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 25, Holy Monday
+Pascha: March  31
+
+Year 1959; alpha = 27, beta = 2
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 13, Palm Sunday
+Pascha: April  20
+
+Year 1960; alpha = 0, beta = 3
+Evangelismos : March 25, Thursday
+Paschal Moon : April 2, Holy Friday
+Pascha: April  4
+
+Year 1961; alpha = 1, beta = 4
+Paschal Moon : March 22, Holy Tuesday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1962; alpha = 2, beta = 5
+Evangelismos : March 25, Saturday
+Paschal Moon : April 10, Holy Monday
+Pascha: April  16
+
+Year 1963; alpha = 3, beta = 6
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 30, Holy Friday
+Pascha: April  1
+
+Year 1964; alpha = 4, beta = 7
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 18, Holy Friday
+Pascha: April  20
+
+Year 1965; alpha = 5, beta = 8
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 7, Holy Tuesday
+Pascha: April  12
+
+Year 1966; alpha = 6, beta = 9
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 27, Holy Saturday
+Pascha: March  28
+
+Year 1967; alpha = 7, beta = 10
+Evangelismos : March 25, Friday
+Paschal Moon : April 15, Holy Friday
+Pascha: April  17
+
+Year 1968; alpha = 8, beta = 11
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 4, Holy Wednesday
+Pascha: April  8
+
+Year 1969; alpha = 9, beta = 12
+Paschal Moon : March 24, Palm Sunday
+Evangelismos : March 25, Holy Monday
+Pascha: March  31
+
+Year 1970; alpha = 10, beta = 13
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 12, Holy Saturday
+Pascha: April  13
+
+Year 1971; alpha = 11, beta = 14
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 1, Holy Wednesday
+Pascha: April  5
+
+Year 1972; alpha = 12, beta = 15
+Paschal Moon : March 21, Holy Monday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 1973; alpha = 13, beta = 16
+Evangelismos : March 25, Saturday
+Paschal Moon : April 9, Palm Sunday
+Pascha: April  16
+
+Year 1974; alpha = 14, beta = 17
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 29, Holy Thursday
+Pascha: April  1
+
+Year 1975; alpha = 15, beta = 18
+Evangelismos : March 25, Monday
+Paschal Moon : April 17, Holy Wednesday
+Pascha: April  21
+
+Year 1976; alpha = 16, beta = 0
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 5, Palm Sunday
+Pascha: April  12
+
+Year 1977; alpha = 17, beta = 1
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1978; alpha = 18, beta = 2
+Evangelismos : March 25, Friday
+Paschal Moon : April 13, Holy Wednesday
+Pascha: April  17
+
+Year 1979; alpha = 19, beta = 3
+Evangelismos : March 25, Saturday
+Paschal Moon : April 2, Palm Sunday
+Pascha: April  9
+
+Year 1980; alpha = 20, beta = 4
+Paschal Moon : March 22, Holy Friday
+Evangelismos : March 25, Holy Monday
+Pascha: March  24
+
+Year 1981; alpha = 21, beta = 5
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 10, Holy Thursday
+Pascha: April  13
+
+Year 1982; alpha = 22, beta = 6
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 30, Holy Monday
+Pascha: April  5
+
+Year 1983; alpha = 23, beta = 7
+Evangelismos : March 25, Thursday
+Paschal Moon : April 18, Palm Sunday
+Pascha: April  25
+
+Year 1984; alpha = 24, beta = 8
+Evangelismos : March 25, Saturday
+Paschal Moon : April 7, Holy Friday
+Pascha: April  9
+
+Year 1985; alpha = 25, beta = 9
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 27, Holy Tuesday
+Pascha: April  1
+
+Year 1986; alpha = 26, beta = 10
+Evangelismos : March 25, Monday
+Paschal Moon : April 15, Holy Monday
+Pascha: April  21
+
+Year 1987; alpha = 27, beta = 11
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 4, Holy Friday
+Pascha: April  6
+
+Year 1988; alpha = 0, beta = 12
+Paschal Moon : March 24, Holy Wednesday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 1989; alpha = 1, beta = 13
+Evangelismos : March 25, Friday
+Paschal Moon : April 12, Holy Tuesday
+Pascha: April  17
+
+Year 1990; alpha = 2, beta = 14
+Evangelismos : March 25, Saturday
+Paschal Moon : April 1, Holy Saturday
+Pascha: April  2
+
+Year 1991; alpha = 3, beta = 15
+Paschal Moon : March 21, Holy Wednesday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 1992; alpha = 4, beta = 16
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 9, Holy Wednesday
+Pascha: April  13
+
+Year 1993; alpha = 5, beta = 17
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 29, Palm Sunday
+Pascha: April  5
+
+Year 1994; alpha = 6, beta = 18
+Evangelismos : March 25, Thursday
+Paschal Moon : April 17, Holy Saturday
+Pascha: April  18
+
+Year 1995; alpha = 7, beta = 0
+Evangelismos : March 25, Friday
+Paschal Moon : April 5, Holy Tuesday
+Pascha: April  10
+
+Year 1996; alpha = 8, beta = 1
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 25, Palm Sunday
+Pascha: April  1
+
+Year 1997; alpha = 9, beta = 2
+Evangelismos : March 25, Monday
+Paschal Moon : April 13, Holy Saturday
+Pascha: April  14
+
+Year 1998; alpha = 10, beta = 3
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 2, Holy Wednesday
+Pascha: April  6
+
+Year 1999; alpha = 11, beta = 4
+Paschal Moon : March 22, Palm Sunday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 2000; alpha = 12, beta = 5
+Evangelismos : March 25, Friday
+Paschal Moon : April 10, Palm Sunday
+Pascha: April  17
+
+Year 2001; alpha = 13, beta = 6
+Evangelismos : March 25, Saturday
+Paschal Moon : March 30, Holy Thursday
+Pascha: April  2
+
+Year 2002; alpha = 14, beta = 7
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 18, Holy Wednesday
+Pascha: April  22
+
+Year 2003; alpha = 15, beta = 8
+Evangelismos : March 25, Monday
+Paschal Moon : April 7, Palm Sunday
+Pascha: April  14
+
+Year 2004; alpha = 16, beta = 9
+Evangelismos : March 25, Holy Wednesday
+Paschal Moon : March 27, Holy Friday
+Pascha: March  29
+
+Year 2005; alpha = 17, beta = 10
+Evangelismos : March 25, Thursday
+Paschal Moon : April 15, Holy Thursday
+Pascha: April  18
+
+Year 2006; alpha = 18, beta = 11
+Evangelismos : March 25, Friday
+Paschal Moon : April 4, Holy Monday
+Pascha: April  10
+
+Year 2007; alpha = 19, beta = 12
+Paschal Moon : March 24, Holy Friday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2008; alpha = 20, beta = 13
+Evangelismos : March 25, Monday
+Paschal Moon : April 12, Holy Friday
+Pascha: April  14
+
+Year 2009; alpha = 21, beta = 14
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 1, Holy Tuesday
+Pascha: April  6
+
+Year 2010; alpha = 22, beta = 15
+Paschal Moon : March 21, Holy Saturday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  22
+
+Year 2011; alpha = 23, beta = 16
+Evangelismos : March 25, Thursday
+Paschal Moon : April 9, Holy Friday
+Pascha: April  11
+
+Year 2012; alpha = 24, beta = 17
+Evangelismos : March 25, Saturday
+Paschal Moon : March 29, Holy Wednesday
+Pascha: April  2
+
+Year 2013; alpha = 25, beta = 18
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 17, Holy Tuesday
+Pascha: April  22
+
+Year 2014; alpha = 26, beta = 0
+Evangelismos : March 25, Monday
+Paschal Moon : April 5, Holy Friday
+Pascha: April  7
+
+Year 2015; alpha = 27, beta = 1
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 2016; alpha = 0, beta = 2
+Evangelismos : March 25, Thursday
+Paschal Moon : April 13, Holy Tuesday
+Pascha: April  18
+
+Year 2017; alpha = 1, beta = 3
+Evangelismos : March 25, Friday
+Paschal Moon : April 2, Holy Saturday
+Pascha: April  3
+
+Year 2018; alpha = 2, beta = 4
+Paschal Moon : March 22, Holy Wednesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2019; alpha = 3, beta = 5
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 10, Holy Tuesday
+Pascha: April  15
+
+Year 2020; alpha = 4, beta = 6
+Evangelismos : March 25, Tuesday
+Paschal Moon : March 30, Palm Sunday
+Pascha: April  6
+
+Year 2021; alpha = 5, beta = 7
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 18, Holy Saturday
+Pascha: April  19
+
+Year 2022; alpha = 6, beta = 8
+Evangelismos : March 25, Thursday
+Paschal Moon : April 7, Holy Wednesday
+Pascha: April  11
+
+Year 2023; alpha = 7, beta = 9
+Evangelismos : March 25, Friday
+Paschal Moon : March 27, Palm Sunday
+Pascha: April  3
+
+Year 2024; alpha = 8, beta = 10
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 15, Palm Sunday
+Pascha: April  22
+
+Year 2025; alpha = 9, beta = 11
+Evangelismos : March 25, Monday
+Paschal Moon : April 4, Holy Thursday
+Pascha: April  7
+
+Year 2026; alpha = 10, beta = 12
+Paschal Moon : March 24, Holy Monday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 2027; alpha = 11, beta = 13
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 12, Palm Sunday
+Pascha: April  19
+
+Year 2028; alpha = 12, beta = 14
+Evangelismos : March 25, Friday
+Paschal Moon : April 1, Holy Friday
+Pascha: April  3
+
+Year 2029; alpha = 13, beta = 15
+Paschal Moon : March 21, Holy Tuesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2030; alpha = 14, beta = 16
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 9, Holy Monday
+Pascha: April  15
+
+Year 2031; alpha = 15, beta = 17
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 29, Holy Friday
+Pascha: March  31
+
+Year 2032; alpha = 16, beta = 18
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 17, Holy Friday
+Pascha: April  19
+
+Year 2033; alpha = 17, beta = 0
+Evangelismos : March 25, Thursday
+Paschal Moon : April 5, Holy Monday
+Pascha: April  11
+
+Year 2034; alpha = 18, beta = 1
+Evangelismos : March 25, Holy Friday
+Paschal Moon : March 25, Holy Friday
+Pascha: March  27
+
+Year 2035; alpha = 19, beta = 2
+Evangelismos : March 25, Saturday
+Paschal Moon : April 13, Holy Thursday
+Pascha: April  16
+
+Year 2036; alpha = 20, beta = 3
+Evangelismos : March 25, Monday
+Paschal Moon : April 2, Holy Tuesday
+Pascha: April  7
+
+Year 2037; alpha = 21, beta = 4
+Paschal Moon : March 22, Holy Saturday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 2038; alpha = 22, beta = 5
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 10, Holy Friday
+Pascha: April  12
+
+Year 2039; alpha = 23, beta = 6
+Evangelismos : March 25, Thursday
+Paschal Moon : March 30, Holy Tuesday
+Pascha: April  4
+
+Year 2040; alpha = 24, beta = 7
+Evangelismos : March 25, Saturday
+Paschal Moon : April 18, Holy Tuesday
+Pascha: April  23
+
+Year 2041; alpha = 25, beta = 8
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 7, Holy Saturday
+Pascha: April  8
+
+Year 2042; alpha = 26, beta = 9
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 27, Holy Wednesday
+Pascha: March  31
+
+Year 2043; alpha = 27, beta = 10
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 15, Holy Tuesday
+Pascha: April  20
+
+Year 2044; alpha = 0, beta = 11
+Evangelismos : March 25, Thursday
+Paschal Moon : April 4, Palm Sunday
+Pascha: April  11
+
+Year 2045; alpha = 1, beta = 12
+Paschal Moon : March 24, Holy Thursday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 2046; alpha = 2, beta = 13
+Evangelismos : March 25, Saturday
+Paschal Moon : April 12, Holy Wednesday
+Pascha: April  16
+
+Year 2047; alpha = 3, beta = 14
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 1, Palm Sunday
+Pascha: April  8
+
+Year 2048; alpha = 4, beta = 15
+Paschal Moon : March 21, Holy Friday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  23
+
+Year 2049; alpha = 5, beta = 16
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 9, Holy Thursday
+Pascha: April  12
+
+Year 2050; alpha = 6, beta = 17
+Evangelismos : March 25, Thursday
+Paschal Moon : March 29, Holy Monday
+Pascha: April  4
+
+Year 2051; alpha = 7, beta = 18
+Evangelismos : March 25, Friday
+Paschal Moon : April 17, Palm Sunday
+Pascha: April  24
+
+Year 2052; alpha = 8, beta = 0
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 5, Holy Thursday
+Pascha: April  8
+
+Year 2053; alpha = 9, beta = 1
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 25, Holy Monday
+Pascha: March  31
+
+Year 2054; alpha = 10, beta = 2
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 13, Palm Sunday
+Pascha: April  20
+
+Year 2055; alpha = 11, beta = 3
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 2, Holy Thursday
+Pascha: April  5
+
+Year 2056; alpha = 12, beta = 4
+Paschal Moon : March 22, Holy Tuesday
+Evangelismos : March 25, Holy Friday
+Pascha: March  27
+
+Year 2057; alpha = 13, beta = 5
+Evangelismos : March 25, Saturday
+Paschal Moon : April 10, Holy Monday
+Pascha: April  16
+
+Year 2058; alpha = 14, beta = 6
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 30, Holy Friday
+Pascha: April  1
+
+Year 2059; alpha = 15, beta = 7
+Evangelismos : March 25, Monday
+Paschal Moon : April 18, Holy Thursday
+Pascha: April  21
+
+Year 2060; alpha = 16, beta = 8
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 7, Holy Tuesday
+Pascha: April  12
+
+Year 2061; alpha = 17, beta = 9
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 27, Holy Saturday
+Pascha: March  28
+
+Year 2062; alpha = 18, beta = 10
+Evangelismos : March 25, Friday
+Paschal Moon : April 15, Holy Friday
+Pascha: April  17
+
+Year 2063; alpha = 19, beta = 11
+Evangelismos : March 25, Saturday
+Paschal Moon : April 4, Holy Tuesday
+Pascha: April  9
+
+Year 2064; alpha = 20, beta = 12
+Paschal Moon : March 24, Palm Sunday
+Evangelismos : March 25, Holy Monday
+Pascha: March  31
+
+Year 2065; alpha = 21, beta = 13
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 12, Holy Saturday
+Pascha: April  13
+
+Year 2066; alpha = 22, beta = 14
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 1, Holy Wednesday
+Pascha: April  5
+
+Year 2067; alpha = 23, beta = 15
+Paschal Moon : March 21, Palm Sunday
+Evangelismos : March 25, Holy Thursday
+Pascha: March  28
+
+Year 2068; alpha = 24, beta = 16
+Evangelismos : March 25, Saturday
+Paschal Moon : April 9, Palm Sunday
+Pascha: April  16
+
+Year 2069; alpha = 25, beta = 17
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 29, Holy Thursday
+Pascha: April  1
+
+Year 2070; alpha = 26, beta = 18
+Evangelismos : March 25, Monday
+Paschal Moon : April 17, Holy Wednesday
+Pascha: April  21
+
+Year 2071; alpha = 27, beta = 0
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 5, Holy Saturday
+Pascha: April  6
+
+Year 2072; alpha = 0, beta = 1
+Evangelismos : March 25, Holy Thursday
+Paschal Moon : March 25, Holy Thursday
+Pascha: March  28
+
+Year 2073; alpha = 1, beta = 2
+Evangelismos : March 25, Friday
+Paschal Moon : April 13, Holy Wednesday
+Pascha: April  17
+
+Year 2074; alpha = 2, beta = 3
+Evangelismos : March 25, Saturday
+Paschal Moon : April 2, Palm Sunday
+Pascha: April  9
+
+Year 2075; alpha = 3, beta = 4
+Paschal Moon : March 22, Holy Thursday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 2076; alpha = 4, beta = 5
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 10, Holy Thursday
+Pascha: April  13
+
+Year 2077; alpha = 5, beta = 6
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 30, Holy Monday
+Pascha: April  5
+
+Year 2078; alpha = 6, beta = 7
+Evangelismos : March 25, Thursday
+Paschal Moon : April 18, Palm Sunday
+Pascha: April  25
+
+Year 2079; alpha = 7, beta = 8
+Evangelismos : March 25, Friday
+Paschal Moon : April 7, Holy Thursday
+Pascha: April  10
+
+Year 2080; alpha = 8, beta = 9
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : March 27, Holy Tuesday
+Pascha: April  1
+
+Year 2081; alpha = 9, beta = 10
+Evangelismos : March 25, Monday
+Paschal Moon : April 15, Holy Monday
+Pascha: April  21
+
+Year 2082; alpha = 10, beta = 11
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 4, Holy Friday
+Pascha: April  6
+
+Year 2083; alpha = 11, beta = 12
+Paschal Moon : March 24, Holy Tuesday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 2084; alpha = 12, beta = 13
+Evangelismos : March 25, Friday
+Paschal Moon : April 12, Holy Tuesday
+Pascha: April  17
+
+Year 2085; alpha = 13, beta = 14
+Evangelismos : March 25, Saturday
+Paschal Moon : April 1, Holy Saturday
+Pascha: April  2
+
+Year 2086; alpha = 14, beta = 15
+Paschal Moon : March 21, Holy Wednesday
+Evangelismos : March 25, Palm Sunday
+Pascha: March  25
+This year is a KyrioPascha!
+
+Year 2087; alpha = 15, beta = 16
+Evangelismos : March 25, Monday
+Paschal Moon : April 9, Holy Tuesday
+Pascha: April  14
+
+Year 2088; alpha = 16, beta = 17
+Evangelismos : March 25, Wednesday
+Paschal Moon : March 29, Palm Sunday
+Pascha: April  5
+
+Year 2089; alpha = 17, beta = 18
+Evangelismos : March 25, Thursday
+Paschal Moon : April 17, Holy Saturday
+Pascha: April  18
+
+Year 2090; alpha = 18, beta = 0
+Evangelismos : March 25, Friday
+Paschal Moon : April 5, Holy Tuesday
+Pascha: April  10
+
+Year 2091; alpha = 19, beta = 1
+Evangelismos : March 25, Holy Saturday
+Paschal Moon : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2092; alpha = 20, beta = 2
+Evangelismos : March 25, Monday
+Paschal Moon : April 13, Holy Saturday
+Pascha: April  14
+
+Year 2093; alpha = 21, beta = 3
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 2, Holy Wednesday
+Pascha: April  6
+
+Year 2094; alpha = 22, beta = 4
+Paschal Moon : March 22, Palm Sunday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  29
+
+Year 2095; alpha = 23, beta = 5
+Evangelismos : March 25, Thursday
+Paschal Moon : April 10, Holy Saturday
+Pascha: April  11
+
+Year 2096; alpha = 24, beta = 6
+Evangelismos : March 25, Saturday
+Paschal Moon : March 30, Holy Thursday
+Pascha: April  2
+
+Year 2097; alpha = 25, beta = 7
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 18, Holy Wednesday
+Pascha: April  22
+
+Year 2098; alpha = 26, beta = 8
+Evangelismos : March 25, Monday
+Paschal Moon : April 7, Palm Sunday
+Pascha: April  14
+
+Year 2099; alpha = 27, beta = 9
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 27, Holy Thursday
+Pascha: March  30
+
+Year 2100; alpha = 0, beta = 10
+Evangelismos : March 25, Thursday
+Paschal Moon : April 15, Holy Thursday
+Pascha: April  18
+
+Year 2101; alpha = 1, beta = 11
+Evangelismos : March 25, Friday
+Paschal Moon : April 4, Holy Monday
+Pascha: April  10
+
+Year 2102; alpha = 2, beta = 12
+Paschal Moon : March 24, Holy Friday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2103; alpha = 3, beta = 13
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 12, Holy Thursday
+Pascha: April  15
+
+Year 2104; alpha = 4, beta = 14
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 1, Holy Tuesday
+Pascha: April  6
+
+Year 2105; alpha = 5, beta = 15
+Paschal Moon : March 21, Holy Saturday
+Evangelismos : March 25, Holy Wednesday
+Pascha: March  22
+
+Year 2106; alpha = 6, beta = 16
+Evangelismos : March 25, Thursday
+Paschal Moon : April 9, Holy Friday
+Pascha: April  11
+
+Year 2107; alpha = 7, beta = 17
+Evangelismos : March 25, Friday
+Paschal Moon : March 29, Holy Tuesday
+Pascha: April  3
+
+Year 2108; alpha = 8, beta = 18
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 17, Holy Tuesday
+Pascha: April  22
+
+Year 2109; alpha = 9, beta = 0
+Evangelismos : March 25, Monday
+Paschal Moon : April 5, Holy Friday
+Pascha: April  7
+
+Year 2110; alpha = 10, beta = 1
+Evangelismos : March 25, Holy Tuesday
+Paschal Moon : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 2111; alpha = 11, beta = 2
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 13, Holy Monday
+Pascha: April  19
+
+Year 2112; alpha = 12, beta = 3
+Evangelismos : March 25, Friday
+Paschal Moon : April 2, Holy Saturday
+Pascha: April  3
+
+Year 2113; alpha = 13, beta = 4
+Paschal Moon : March 22, Holy Wednesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2114; alpha = 14, beta = 5
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 10, Holy Tuesday
+Pascha: April  15
+
+Year 2115; alpha = 15, beta = 6
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 30, Holy Saturday
+Pascha: March  31
+
+Year 2116; alpha = 16, beta = 7
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 18, Holy Saturday
+Pascha: April  19
+
+Year 2117; alpha = 17, beta = 8
+Evangelismos : March 25, Thursday
+Paschal Moon : April 7, Holy Wednesday
+Pascha: April  11
+
+Year 2118; alpha = 18, beta = 9
+Evangelismos : March 25, Friday
+Paschal Moon : March 27, Palm Sunday
+Pascha: April  3
+
+Year 2119; alpha = 19, beta = 10
+Evangelismos : March 25, Saturday
+Paschal Moon : April 15, Holy Saturday
+Pascha: April  16
+
+Year 2120; alpha = 20, beta = 11
+Evangelismos : March 25, Monday
+Paschal Moon : April 4, Holy Thursday
+Pascha: April  7
+
+Year 2121; alpha = 21, beta = 12
+Paschal Moon : March 24, Holy Monday
+Evangelismos : March 25, Holy Tuesday
+Pascha: March  30
+
+Year 2122; alpha = 22, beta = 13
+Evangelismos : March 25, Wednesday
+Paschal Moon : April 12, Palm Sunday
+Pascha: April  19
+
+Year 2123; alpha = 23, beta = 14
+Evangelismos : March 25, Thursday
+Paschal Moon : April 1, Holy Thursday
+Pascha: April  4
+
+Year 2124; alpha = 24, beta = 15
+Paschal Moon : March 21, Holy Tuesday
+Evangelismos : March 25, Holy Saturday
+Pascha: March  26
+
+Year 2125; alpha = 25, beta = 16
+Evangelismos : March 25, Kyriaki (Sunday)
+Paschal Moon : April 9, Holy Monday
+Pascha: April  15
+
+Year 2126; alpha = 26, beta = 17
+Evangelismos : March 25, Holy Monday
+Paschal Moon : March 29, Holy Friday
+Pascha: March  31
+
+Year 2127; alpha = 27, beta = 18
+Evangelismos : March 25, Tuesday
+Paschal Moon : April 17, Holy Thursday
+Pascha: April  20
+
+Year 2128; alpha = 0, beta = 0
+Evangelismos : March 25, Thursday
+Paschal Moon : April 5, Holy Monday
+Pascha: April  11
